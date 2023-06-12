@@ -26,7 +26,7 @@ main{
     z-index: -5;
     position: absolute;
     top: 0%;
-
+    width: 100vw;
     &__mobile{display: none;}
 
     @include respond{

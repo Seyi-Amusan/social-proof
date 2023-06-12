@@ -26,6 +26,7 @@ main {
   z-index: -5;
   position: absolute;
   top: 0%;
+  width: 100vw;
 }
 .bg-imgs__mobile {
   display: none;
