@@ -1,0 +1,60 @@
+@import 'layout';
+
+main{font-family: 'League Spartan', sans-serif;}
+
+.header{
+    color: hsl(300, 43%, 22%);
+
+    &__text{
+        font-size: 4rem;
+        font-weight: 700;
+        line-height: 4.5rem;
+    }
+
+    &__paragraph{
+        font-size: 1.3rem;
+        font-weight: 500;
+        line-height: 2rem;
+        margin-right: 5rem;
+    }
+}
+
+.rating__box{
+    background-color: hsl(300, 24%, 96%);
+
+    &--text{
+        color: hsl(300, 43%, 22%);
+        font-size: 1.2rem;
+    }
+}
+
+.review__box{
+    font-size: 1rem;
+    background-color: hsl(300, 43%, 22%);
+
+    &--profile-image{
+        border-radius: 100%;
+        box-sizing: content-box;
+        border: #fff .1rem solid;
+    }
+
+
+    &--paragraph{
+        font-weight: 700;
+        color: #fff;
+        line-height: 2rem;
+    }
+
+    &--profile{
+        &-name{
+            color: #fff;
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+        &-status{
+            color: hsl(333, 80%, 67%);
+            font-weight: 400;
+            font-size: 1.2rem;
+        }
+    }
+}
