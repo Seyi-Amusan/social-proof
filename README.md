@@ -1,4 +1,5 @@
-### Frontend mentor challenge
-
 # social-proof
 
+### Frontend mentor challenge
+
+![image](https://github.com/Seyi-Amusan/social-proof/assets/131811805/c81f5298-cc09-49bd-9ab3-edca6ae83e2e)
